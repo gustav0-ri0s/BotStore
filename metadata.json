@@ -1,0 +1,6 @@
+{
+  "name": "BotStore Product Catalog",
+  "description": "A web application to manage and display a catalog of robotics products. Users can view, filter, add, and edit products.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
